@@ -1,4 +1,8 @@
-Litecoin - a lite version of Bitcoin optimized for CPU mining using scrypt as a proof of work scheme.
+Scicoin is a cryptography currency based on scicoin with the addition of logic that will allow scientists and other organisations to run jobs on Scicoin's network, thereby using the computing power for something beneficial.
+
+Jobs will pay a bounty, and the code will be reviewed and ran on a per-pool basis. Miners and Pool Operators will share in the payment of bounty, which will be paid in Scicoin.
+
+Much of Scicoin is the same as scicoin:
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
@@ -32,7 +36,7 @@ after the warning if action is not taken by the author. Pull requests closed
 in this manner will have their corresponding issue labeled 'stagnant'.
 
 Issues with no commits will be given a similar warning, and closed after
-15 days from their last activity. Issues closed in this manner will be 
-labeled 'stale'. 
+15 days from their last activity. Issues closed in this manner will be
+labeled 'stale'.
 
-Check out http://forum.litecoin.net/index.php/board,2.0.html for more info about the development.
+Check out http://forum.scicoin.net/index.php/board,2.0.html for more info about the development.
