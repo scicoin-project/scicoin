@@ -2,7 +2,7 @@ Scicoin is a cryptography currency based on litecoin with the addition of logic 
 
 Jobs will pay a bounty, and the code will be reviewed and ran on a per-pool basis. Miners and Pool Operators will share in the payment of bounty, which will be paid in Scicoin.
 
-Much of Scicoin is the same as scicoin:
+Much of Scicoin is the same as litecoin:
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
