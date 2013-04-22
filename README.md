@@ -1,4 +1,4 @@
-Scicoin is a cryptography currency based on scicoin with the addition of logic that will allow scientists and other organisations to run jobs on Scicoin's network, thereby using the computing power for something beneficial.
+Scicoin is a cryptography currency based on litecoin with the addition of logic that will allow scientists and other organisations to run jobs on Scicoin's network, thereby using the computing power for something beneficial.
 
 Jobs will pay a bounty, and the code will be reviewed and ran on a per-pool basis. Miners and Pool Operators will share in the payment of bounty, which will be paid in Scicoin.
 
